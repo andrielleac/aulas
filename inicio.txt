@@ -1,0 +1,4 @@
+html- linguagem de marcação de hipertexto 
+Arquivo html tem terminação .html 
+O primeiro arquivo acessado sempre será o index 
+as tags são escritas; <palavrareservada>
